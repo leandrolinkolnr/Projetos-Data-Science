@@ -5,7 +5,7 @@ Bem-vindo ao meu repositório de projetos de Data Science! Aqui você encontrar�
 ## Conteúdo
 
 - Análises Descritivas e Exploratórias
-- Limpeza e Tratamento de Dados em Python
+- Limpeza e Tratamento de Dados
 - Projetos completos de Machine Learning:
   - Modelos de Classificação
   - Modelos de Regressão
